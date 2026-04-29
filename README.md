@@ -26,20 +26,20 @@ Formula used:
 =FORECAST.LINEAR(A14, B2:B13, A2:A13)
 
 ---
-📊 Key Insights
+## 📊 Key Insights
 Sales show a consistent upward trend over time
 Peak sales occur during Oct–Dec (seasonal demand increase)
 Forecast indicates continued growth in early 2026
 Business demand remains stable with positive growth trajectory
 
 ---
-📉 Visualization
+## 📉 Visualization
 The project includes a line chart comparing:
 Actual Sales (2025)
 Forecasted Sales (2026)
 
 ---
-🎯 Outcome
+## 🎯 Outcome
 This project demonstrates how Excel can be used to:
 Analyze historical sales data
 Identify trends and seasonality
