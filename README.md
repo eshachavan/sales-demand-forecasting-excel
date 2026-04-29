@@ -35,12 +35,12 @@ Business demand remains stable with positive growth trajectory
 ---
 ## 📉 Visualization
 The project includes a line chart comparing:
-Actual Sales (2025)
-Forecasted Sales (2026)
+- Actual Sales (2025)
+- Forecasted Sales (2026)
 
 ---
 ## 🎯 Outcome
 This project demonstrates how Excel can be used to:
-Analyze historical sales data
-Identify trends and seasonality
-Predict future demand for business planning
+- Analyze historical sales data
+- Identify trends and seasonality
+- Predict future demand for business planning
